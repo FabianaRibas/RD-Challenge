@@ -93,7 +93,7 @@ Para rodar a solução é necessário possuir:
 
 Para baixar o projeto clone o repositorio na sua maquina utilizando o comando abaixo no terminal.
 
-`https://github.com/FabianaRibas/RD-Challenge.git`
+`git clone https://github.com/FabianaRibas/RD-Challenge.git`
 
 Acesse o diretorio no terminal utilizando o comando:
 
