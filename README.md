@@ -99,21 +99,15 @@ Acesse o diretorio no terminal utilizando o comando:
 
 `cd RD-Challenge`
 
-## Execução
+## Dependências
 
 Verifique se na sua maquina existe o Node v16.18.1 ou superior instalado.
 
 - Digite no terminal:
   `node --version`
 
-- Baixe as dependencias do projeto:
+- Baixe as dependências do projeto:
   `npm install`
-
-- Execute a solução:
-
-  `node customer-success-balancing.js`
-  ou
-  `npm run start`
 
 ## Como rodar os testes
 
