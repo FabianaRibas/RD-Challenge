@@ -1,0 +1,25 @@
+{
+  "name": "rd-challenges",
+  "version": "1.0.0",
+  "main": "customer-success-balancing.js",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "25.2.2"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*.js"
+    ],
+    "testPathIgnorePatterns": [
+      ".eslintrc"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
